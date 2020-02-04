@@ -1,6 +1,22 @@
-# API Project: Request Header Parser Microservice for freeCodeCamp
+# API Project: Request Header Parser Microservice for FCC
 
-### User stories:
+This project was built as part of the [FreeCodeCamp curriculum](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice).
+
+https://request-header-parser-microservice.allymurray.com/
+
+## Built with
+
+- [Node.js](https://nodejs.org)
+- [Express](https://expressjs.com)
+- [CORS](https://github.com/expressjs/cors)
+- [dotenv](https://github.com/motdotla/dotenv)
+
+### Development tools
+
+- [ESLint](https://eslint.org)
+- [nodemon](https://nodemon.io)
+
+## User stories:
 
 1. I can get the IP address, preferred languages (from header `Accept-Language`) and system infos (from header `User-Agent`) for my device.
 
